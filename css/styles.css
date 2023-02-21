@@ -91,13 +91,13 @@ body {
     color: inherit;
     font-style: normal;
 
-    transition: color var(--transition-timing) var(--transition-function);
+    /* transition: color var(--transition-timing) var(--transition-function); */
 }
 
-.link:hover,
+/* .link:hover,
 .link:focus {
     color: var(--accent-color);
-}
+} */
 
 .link.current {
     position: relative;
